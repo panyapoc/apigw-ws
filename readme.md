@@ -6,7 +6,7 @@
 
 ## Lab Part 1 : Monolith Application 📦
 
-[🔗**Monolith Application**](https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/en-US/monolith-app)
+### 1. [🔗**Monolith Application**](https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/en-US/monolith-app)
 
 ## Lab Part 2 : Preparing to implement the Strangler pattern using API Gateway 🦄
 
