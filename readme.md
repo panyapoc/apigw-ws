@@ -13,6 +13,9 @@
 ### 2.1 [🔗**API gw setup**](https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/en-US/api-gateway)
 ### 2.2 [🔗**Microservice setup**](https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/en-US/microservices/lambda)
 
+# Deck
+
+* [🔗Slide Deck](https://dl.panyapoc.com/KumuAPIgw.pdf)
 
 # Useful resources
 
